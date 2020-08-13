@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/ReactApp/static/css/main.0b0fd139.chunk.css",
+    "main.js": "/ReactApp/static/js/main.733d4a17.chunk.js",
+    "main.js.map": "/ReactApp/static/js/main.733d4a17.chunk.js.map",
+    "runtime-main.js": "/ReactApp/static/js/runtime-main.7ce5ac92.js",
+    "runtime-main.js.map": "/ReactApp/static/js/runtime-main.7ce5ac92.js.map",
+    "static/js/2.1ac4567f.chunk.js": "/ReactApp/static/js/2.1ac4567f.chunk.js",
+    "static/js/2.1ac4567f.chunk.js.map": "/ReactApp/static/js/2.1ac4567f.chunk.js.map",
+    "index.html": "/ReactApp/index.html",
+    "precache-manifest.8ce4b239cef5f05b0018d768dcaaffa1.js": "/ReactApp/precache-manifest.8ce4b239cef5f05b0018d768dcaaffa1.js",
+    "service-worker.js": "/ReactApp/service-worker.js",
+    "static/css/main.0b0fd139.chunk.css.map": "/ReactApp/static/css/main.0b0fd139.chunk.css.map",
+    "static/js/2.1ac4567f.chunk.js.LICENSE.txt": "/ReactApp/static/js/2.1ac4567f.chunk.js.LICENSE.txt",
+    "static/media/clients-01.svg": "/ReactApp/static/media/clients-01.b9978201.svg",
+    "static/media/clients-02.svg": "/ReactApp/static/media/clients-02.e54005bf.svg",
+    "static/media/clients-03.svg": "/ReactApp/static/media/clients-03.bbaa54a0.svg",
+    "static/media/clients-04.svg": "/ReactApp/static/media/clients-04.cdf0e500.svg",
+    "static/media/clients-05.svg": "/ReactApp/static/media/clients-05.b913b150.svg",
+    "static/media/feature-tile-icon-01.svg": "/ReactApp/static/media/feature-tile-icon-01.6dbc3613.svg",
+    "static/media/feature-tile-icon-02.svg": "/ReactApp/static/media/feature-tile-icon-02.a02bfd4b.svg",
+    "static/media/feature-tile-icon-03.svg": "/ReactApp/static/media/feature-tile-icon-03.91b1b862.svg",
+    "static/media/hero-image.png": "/ReactApp/static/media/hero-image.68718083.png",
+    "static/media/style.css": "/ReactApp/static/media/illustration-section-01.ad9b81a8.svg",
+    "static/media/logo.svg": "/ReactApp/static/media/logo.f062941c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ce5ac92.js",
+    "static/js/2.1ac4567f.chunk.js",
+    "static/css/main.0b0fd139.chunk.css",
+    "static/js/main.733d4a17.chunk.js"
+  ]
+}
